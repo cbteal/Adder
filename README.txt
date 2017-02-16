@@ -7,4 +7,4 @@ Date: February 2017
 Instructions:
 Compile the verilog (.v) file in Quartus
 Load to DE1-SoC FPGA board
-Voila -- you should now be able to add two 5 bit numbers using the switches. The numbers and 6 bit sum will appear on the seven segment displays.
+Voila -- you should now be able to add two 5 bit numbers using the switches to select values. The numbers and 6 bit sum will appear on the seven segment displays.
